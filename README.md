@@ -1,5 +1,4 @@
-# consistent_redis
-Redis cluster with consistent hashing
+# How to run a masterless redis cluster with consistent hashing and data redundancy
 
 ## Set consistent service environment
 
